@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I’m <a href="https://github.com/ruswan/ruswan">Ruswan<a/></h1>
 <h3 align="center">An passionate website developer from Sukabumi, Jawa Barat</h3>
 
-- 👀 I’m interested in programming computer
+- 👀 I’m interested in computer programming
 - 🌱 I’m currently working at Muhammadiyah University of Sukabumi (https://ummi.ac.id)
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 Contact me : sukabumikode@gmail.com
