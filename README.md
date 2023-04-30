@@ -4,7 +4,7 @@
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently working at Muhammadiyah University of Sukabumi (https://ummi.ac.id)
 <!--- - 💞️ I’m looking to collaborate on ...--->
-- 📫 Contact me : sukabumikode@gmail.com
+- 📫 Contact me : <a href="mailto:sukabumikode@gmail.com">sukabumikode@gmail.com</a>
 
 <!---
 ruswan/ruswan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
