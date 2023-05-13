@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I’m <a href="https://github.com/ruswan">Ruswan<a/></h1>
-<h3 align="center">An passionate website developer from Sukabumi, Jawa Barat</h3>
+<h3 align="center">A passionate website developer from Sukabumi, Jawa Barat</h3>
 
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently working at Muhammadiyah University of Sukabumi (https://ummi.ac.id)
