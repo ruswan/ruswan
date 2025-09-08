@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋 I’m <a href="https://github.com/ruswan">Ruswan<a/></h1>
-<h3 align="center">A passionate website developer from Sukabumi, Jawa Barat</h3>
+<h1 align="center">Hi 👋 I’m <a href="https://github.com/ruswan">Ruswandi, S.T., M.Kom.<a/></h1>
+<h3 align="center">A passionate website developer, enterprise architect, and project manager from Sukabumi, Jawa Barat</h3>
 
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently working at Muhammadiyah University of Sukabumi (https://ummi.ac.id)
+- 👨‍🎓 I hold a degree in Computer Science and Engineering (S.T., M.Kom).
+- 👀 I’m interested in computer programming, enterprise architecture planning & design, and project management.
+- 🌱 I’m currently working at Universitas Muhammadiyah Sukabumi (https://ummi.ac.id) as **Head of Information Systems Division**, responsible for the development of information systems across the university.
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 Contact me : sukabumikode@gmail.com
 
@@ -31,7 +32,10 @@ You can click the Preview link to take a look at your changes.
  
 <h2 align="center"> Connect with me: </h2>
 <p align="center">
- <a href="https://discord.com/users/Ruswan#3256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ruswan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ruswan.official" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ruswan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ <a href="https://discord.com/users/Ruswan#3256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+ <a href="https://www.github.com/ruswan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+ <a href="http://www.instagram.com/ruswan.official" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+ <a href="https://www.linkedin.com/in/ruswan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 <b>My GitHub Stats</b>
