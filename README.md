@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I’m <a href="https://github.com/ruswan">Ruswandi, S.T., M.Kom.<a/></h1>
-<h3 align="center">A passionate website developer, enterprise architect, and project manager from Sukabumi, Jawa Barat</h3>
+<h3 align="center">A passionate website developer, enterprise architect, and project manager from Sukabumi, Jawa Barat - Indonesia</h3>
 
 - 👨‍🎓 I hold a degree in Computer Science and Engineering (S.T., M.Kom.)
 - 👀 I’m interested in computer programming, enterprise architecture planning & design, and project management.
