@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I’m <a href="https://github.com/ruswan">Ruswandi, S.T., M.Kom.<a/></h1>
 <h3 align="center">A passionate website developer, enterprise architect, and project manager from Sukabumi, Jawa Barat</h3>
 
-- 👨‍🎓 I hold a degree in Computer Science and Engineering (S.T., M.Kom).
+- 👨‍🎓 I hold a degree in Computer Science and Engineering (S.T., M.Kom.)
 - 👀 I’m interested in computer programming, enterprise architecture planning & design, and project management.
 - 🌱 I’m currently working at Universitas Muhammadiyah Sukabumi (https://ummi.ac.id) as **Head of Information Systems Division**, responsible for the development of information systems across the university.
 <!--- - 💞️ I’m looking to collaborate on ...--->
